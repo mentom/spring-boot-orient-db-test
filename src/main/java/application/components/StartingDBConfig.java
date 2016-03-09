@@ -22,6 +22,8 @@ public class StartingDBConfig {
         indirizzo1.setProperty("Cap", 61032);
         indirizzo1.setProperty("Provincia", "PU");
         indirizzo1.setProperty("Nazione", "Italia");
+        graph.commit();
+
 
         return true;
     }
