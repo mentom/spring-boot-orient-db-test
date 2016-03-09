@@ -1,0 +1,5 @@
+application/pojos/Address.class
+application/Application.class
+application/components/OrientDBConnection.class
+application/components/StartingDBConfig.class
+application/controllers/OrientController.class
